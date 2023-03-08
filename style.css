@@ -1,0 +1,61 @@
+body{
+    background-image: url('bg.jpg');
+    margin: 0px;
+}
+header{
+    background-color: goldenrod;
+}
+header h1,h3{
+    color: white;
+}
+
+div{
+    display: flex;
+    text-align: justify;
+    margin-top: 52px;
+}
+h2{
+    color: goldenrod;
+    margin-left: 30px;
+}
+h3{
+    font-size: 30px;
+}
+
+p {
+    font-size: 23px;
+    padding:  20px;
+    line-height: 30px;
+    width: 450px;
+}
+
+ul{
+    font-size: 18px;
+    margin-left: 20px;
+}
+
+td{
+    padding-right: 100px;
+}
+
+footer{
+    background-color: goldenrod;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+footer h4 {
+    margin-top: -5px;
+}
+
+footer td{
+    padding-right: 70px;
+}
+footer div{
+    margin-left: 420px;
+}
+
+.foto{
+    margin-left: 40px;
+}
